@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Python 3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-05 10:05+0200\n"
-"PO-Revision-Date: 2022-04-26 14:55+0200\n"
+"PO-Revision-Date: 2022-04-26 23:46+0200\n"
 "Last-Translator: Julien Palard <julien@palard.fr>\n"
 "Language-Team: FRENCH <traductions@lists.afpy.org>\n"
 "Language: fr\n"
@@ -1575,9 +1575,8 @@ msgstr ""
 "envvar:`PATH` sauf si l'option a été sélectionnée lors de l'installation."
 
 #: using/windows.rst:717
-#, fuzzy
 msgid "You should see the currently installed versions of Python."
-msgstr "Remarquez que la dernière version de Python 2.x démarre."
+msgstr "Vous devriez voir les versions de Python actuellement installées."
 
 #: using/windows.rst:720
 msgid "Virtual environments"
